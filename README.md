@@ -8,9 +8,10 @@ The main learning points:
 * Develop, train and evaluate XG-Boost classifier model using Scikit-Learn
 * Preform exploratory data analysis using pandas and seaborn packages
 
-In the repo, two jupiter notebooks are given.  
-One represents only sceleton with given tasks and no solutions,suitable for anyone who wants to learn and practice python skills.  
-The second notebook represents final solutions.  
+The repo contains two jupiter notebook and given data in csv format.  
+One jupiter notebook is given as a skeleton (with given tasks and no solutions),  
+suitable for anyone who wants to learn and practice python skills.    
+The second notebook contains final solutions to all problems.  
 
 
 # Cerification:
