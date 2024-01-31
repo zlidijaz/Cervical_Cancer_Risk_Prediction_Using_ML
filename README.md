@@ -15,5 +15,4 @@ The second notebook contains final solutions to all problems.
 
 
 # Cerification:
-
-[Coursera HVPPZUMTFLUU.pdf](https://github.com/zlidijaz/Cervical_Cancer_Risk_Prediction_Using_ML/files/14110900/Coursera.HVPPZUMTFLUU.pdf)
+ https://coursera.org/share/921f707f38fa34da84b65a7bd9e668e3
